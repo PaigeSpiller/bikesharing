@@ -37,4 +37,4 @@
 
 ## Summary:
 
-#### In conclusion, we can easily visualize the data with Tableau to conclude that the majority of customers are Male subscribers that most often checkout bikes during standard work commute hours (6am - 9am and 5pm - 7pm on the weekdays).  Two additional visualizations that would be useful for this analysis would be a graph that shows 
+#### In conclusion, we can easily visualize the data with Tableau to conclude that the majority of customers are Male subscribers that most often checkout bikes during standard work commute hours (6am - 9am and 5pm - 7pm on the weekdays).  Two additional visualizations that would be useful for this analysis would be a graph that shows the ages of bikeshare users and a graph that shows what percentage of subscibers check out bikes regularly. 
