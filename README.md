@@ -3,7 +3,7 @@
 ## Overview:
 
 #### The purpose of the analysis is to create a visualization using Tableau in order to present NYC bikesharing data.  To see the full Tableau visit the following link:
-#### [Tableau NYC bikshare](https://public.tableau.com/profile/paige.spiller#!/vizhome/Bikeshare_Challenge/NYCbikesharestory)
+#### [Tableau NYC bikeshare](https://public.tableau.com/profile/paige.spiller#!/vizhome/Bikeshare_Challenge/NYCbikesharestory)
 
 ## Results:
 
